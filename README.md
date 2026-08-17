@@ -18,6 +18,17 @@
 - [docx-reply](https://github.com/hc-ui/docx-reply) — Word 批注 / 修订导出成修改对照表
 - [luanma](https://github.com/hc-ui/luanma) — 解压后文件名乱码（GBK / Big5 / Shift-JIS）
 
-Windows / Git 备件：[eoldoctor](https://github.com/hc-ui/eoldoctor) · [whoseport](https://github.com/hc-ui/whoseport) · [longpath](https://github.com/hc-ui/longpath) · [wholocks](https://github.com/hc-ui/wholocks)
+## Windows / Git
+
+| 项目 | 一句话 |
+| --- | --- |
+| [whoseport](https://github.com/hc-ui/whoseport) | 端口被谁占了，一条命令放掉 |
+| [wholocks](https://github.com/hc-ui/wholocks) | 文件被谁锁了，一条命令解开 |
+| [longpath](https://github.com/hc-ui/longpath) | 路径太长删不掉 / 复制不了 |
+| [eoldoctor](https://github.com/hc-ui/eoldoctor) | Git 换行符警告和幽灵改动 |
+
+## 小游戏
+
+[xiaoyouxi-shishou](https://github.com/hc-ui/xiaoyouxi-shishou) 和 [battle-royale-lite](https://github.com/hc-ui/battle-royale-lite) 是同一款浏览器吃鸡，[点开即玩](https://hc-ui.github.io/xiaoyouxi-shishou/)。
 
 纯文本优先 · 可离线 · MIT。Issue / PR 中英文都行。
