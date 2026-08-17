@@ -1,8 +1,18 @@
 # hc-ui
 
-我做中文学术写作与学生日常里的零依赖小工具——Word 文档和国家标准之间缺失的那些管道。
+我做中文学术写作、学生日常和开发者麻烦事里的零依赖小工具。
 
-Small, zero-dependency tools for Chinese academic writing and student workflows.
+Small, zero-dependency tools for Chinese academic writing, student workflows, and everyday developer pain.
+
+## 开发者日常
+
+| 项目 | 干什么 |
+|---|---|
+| [eoldoctor](https://github.com/hc-ui/eoldoctor) | Git 换行符医生：讲清 CRLF/LF，一键治好整个仓库 |
+| [whoseport](https://github.com/hc-ui/whoseport) | 一条命令查出端口被谁占用并释放 |
+| [longpath](https://github.com/hc-ui/longpath) | 路径太长删不掉：扫描、预演、强删 |
+| [wholocks](https://github.com/hc-ui/wholocks) | 文件被占用无法删除时，找出锁它的进程 |
+| [whichproxy](https://github.com/hc-ui/whichproxy) | 看某个主机走没走代理（给 Clash 上的 AI CLI） |
 
 ## 学术写作
 
@@ -19,16 +29,19 @@ Small, zero-dependency tools for Chinese academic writing and student workflows.
 | [kebiao2ics](https://github.com/hc-ui/kebiao2ics) | 大学课表转手机日历 .ics · [在线使用](https://hc-ui.github.io/kebiao2ics/) |
 | [luanma](https://github.com/hc-ui/luanma) | 解压后文件名乱码（GBK / Big5 / Shift-JIS）自动修复 |
 
-## 其它小工具
+## 研究与短片
 
 | 项目 | 干什么 |
 |---|---|
 | [zotlocal](https://github.com/hc-ui/zotlocal) | 读本机 Zotero，不用 Web API key |
+| [shotbible](https://github.com/hc-ui/shotbible) | AI 图/视频连续性：锁角色和场景，编译一致提示词 |
 
 ## 网页小游戏
 
 | 项目 | 干什么 |
 |---|---|
 | [xiaoyouxi-shishou](https://github.com/hc-ui/xiaoyouxi-shishou) | 浏览器大逃杀轻量版 · [在线玩](https://hc-ui.github.io/xiaoyouxi-shishou/) |
+
+置顶常用：eoldoctor · whoseport · luanma · gbt7714-lint · kebiao2ics · shotbible
 
 Plain-text first · offline friendly · MIT licensed. Issues & PRs welcome，中英文皆可。
