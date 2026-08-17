@@ -1,47 +1,23 @@
 # hc-ui
 
-我做中文学术写作、学生日常和开发者麻烦事里的零依赖小工具。
+中科大先研院，控制工程。做当场能用、零依赖的小工具。
 
-Small, zero-dependency tools for Chinese academic writing, student workflows, and everyday developer pain.
+先看这四个：
 
-## 开发者日常
+| 项目 | 一句话 | 试用 |
+| --- | --- | --- |
+| **[gbt7714-lint](https://github.com/hc-ui/gbt7714-lint)** | Word 里抄出来的参考文献，对照 GB/T 7714—2025 检查并自动修 | [浏览器打开](https://hc-ui.github.io/gbt7714-lint/) |
+| **[whichproxy](https://github.com/hc-ui/whichproxy)** | 浏览器走了 Clash，CLI 却 403？看 curl / Python / Go 有没有被 `NO_PROXY` 放行 | 终端 20 秒 |
+| **[shotbible](https://github.com/hc-ui/shotbible)** | AI 视频连续性：锁角色和场景，编译不会跑偏的提示词。本地、不上云 | 克隆即用 |
+| **[kebiao2ics](https://github.com/hc-ui/kebiao2ics)** | 大学课表转成手机日历 `.ics` | [浏览器打开](https://hc-ui.github.io/kebiao2ics/) |
 
-| 项目 | 干什么 |
-|---|---|
-| [eoldoctor](https://github.com/hc-ui/eoldoctor) | Git 换行符医生：讲清 CRLF/LF，一键治好整个仓库 |
-| [whoseport](https://github.com/hc-ui/whoseport) | 一条命令查出端口被谁占用并释放 |
-| [longpath](https://github.com/hc-ui/longpath) | 路径太长删不掉：扫描、预演、强删 |
-| [wholocks](https://github.com/hc-ui/wholocks) | 文件被占用无法删除时，找出锁它的进程 |
-| [whichproxy](https://github.com/hc-ui/whichproxy) | 看某个主机走没走代理（给 Clash 上的 AI CLI） |
+## 同一条线
 
-## 学术写作
+- [zh-cite-check](https://github.com/hc-ui/zh-cite-check) — 正文 `[1][2]` 和参考文献表是否对得上
+- [zotlocal](https://github.com/hc-ui/zotlocal) — 读本机 Zotero，不用 Web API key
+- [docx-reply](https://github.com/hc-ui/docx-reply) — Word 批注 / 修订导出成修改对照表
+- [luanma](https://github.com/hc-ui/luanma) — 解压后文件名乱码（GBK / Big5 / Shift-JIS）
 
-| 项目 | 干什么 |
-|---|---|
-| [gbt7714-lint](https://github.com/hc-ui/gbt7714-lint) | GB/T 7714—2025 参考文献格式检查与自动修复 · [在线试用](https://hc-ui.github.io/gbt7714-lint/) |
-| [zh-cite-check](https://github.com/hc-ui/zh-cite-check) | 正文引用序号与参考文献表是否一一对应 |
-| [docx-reply](https://github.com/hc-ui/docx-reply) | Word 批注与修订一键导出成修改对照表 |
+Windows / Git 备件：[eoldoctor](https://github.com/hc-ui/eoldoctor) · [whoseport](https://github.com/hc-ui/whoseport) · [longpath](https://github.com/hc-ui/longpath) · [wholocks](https://github.com/hc-ui/wholocks)
 
-## 学生日常
-
-| 项目 | 干什么 |
-|---|---|
-| [kebiao2ics](https://github.com/hc-ui/kebiao2ics) | 大学课表转手机日历 .ics · [在线使用](https://hc-ui.github.io/kebiao2ics/) |
-| [luanma](https://github.com/hc-ui/luanma) | 解压后文件名乱码（GBK / Big5 / Shift-JIS）自动修复 |
-
-## 研究与短片
-
-| 项目 | 干什么 |
-|---|---|
-| [zotlocal](https://github.com/hc-ui/zotlocal) | 读本机 Zotero，不用 Web API key |
-| [shotbible](https://github.com/hc-ui/shotbible) | AI 图/视频连续性：锁角色和场景，编译一致提示词 |
-
-## 网页小游戏
-
-| 项目 | 干什么 |
-|---|---|
-| [xiaoyouxi-shishou](https://github.com/hc-ui/xiaoyouxi-shishou) | 浏览器大逃杀轻量版 · [在线玩](https://hc-ui.github.io/xiaoyouxi-shishou/) |
-
-置顶常用：eoldoctor · whoseport · luanma · gbt7714-lint · kebiao2ics · shotbible
-
-Plain-text first · offline friendly · MIT licensed. Issues & PRs welcome，中英文皆可。
+纯文本优先 · 可离线 · MIT。Issue / PR 中英文都行。
