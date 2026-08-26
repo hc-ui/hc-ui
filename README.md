@@ -13,6 +13,7 @@
 
 ## 同一条线
 
+- [cross-ai-memory](https://github.com/hc-ui/cross-ai-memory) — 一本笔记给所有 AI 看：模型只能提案，你点头才写入
 - [zh-cite-check](https://github.com/hc-ui/zh-cite-check) — 正文 `[1][2]` 和参考文献表是否对得上
 - [zotlocal](https://github.com/hc-ui/zotlocal) — 读本机 Zotero，不用 Web API key
 - [docx-reply](https://github.com/hc-ui/docx-reply) — Word 批注 / 修订导出成修改对照表
@@ -29,6 +30,6 @@
 
 ## 小游戏
 
-[xiaoyouxi-shishou](https://github.com/hc-ui/xiaoyouxi-shishou) 和 [battle-royale-lite](https://github.com/hc-ui/battle-royale-lite) 是同一款浏览器吃鸡，[点开即玩](https://hc-ui.github.io/xiaoyouxi-shishou/)。
+[xiaoyouxi-shishou](https://github.com/hc-ui/xiaoyouxi-shishou) 和 [battle-royale-lite](https://github.com/hc-ui/battle-royale-lite) 是同一款浏览器吃鸡：[中文页](https://hc-ui.github.io/xiaoyouxi-shishou/) · [英文页](https://hc-ui.github.io/battle-royale-lite/)。
 
 纯文本优先 · 可离线 · MIT。Issue / PR 中英文都行。
