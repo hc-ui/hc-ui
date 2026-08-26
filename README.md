@@ -30,6 +30,6 @@
 
 ## 小游戏
 
-[xiaoyouxi-shishou](https://github.com/hc-ui/xiaoyouxi-shishou) 和 [battle-royale-lite](https://github.com/hc-ui/battle-royale-lite) 是同一款浏览器吃鸡，[点开即玩](https://hc-ui.github.io/xiaoyouxi-shishou/)。
+[xiaoyouxi-shishou](https://github.com/hc-ui/xiaoyouxi-shishou) 和 [battle-royale-lite](https://github.com/hc-ui/battle-royale-lite) 是同一款浏览器吃鸡：[中文页](https://hc-ui.github.io/xiaoyouxi-shishou/) · [英文页](https://hc-ui.github.io/battle-royale-lite/)。
 
 纯文本优先 · 可离线 · MIT。Issue / PR 中英文都行。
