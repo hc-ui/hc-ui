@@ -2,10 +2,11 @@
 
 中科大先研院，控制工程。做当场能用、零依赖的小工具。
 
-先看这四个：
+先看这五个：
 
 | 项目 | 一句话 | 试用 |
 | --- | --- | --- |
+| **[cross-ai-memory](https://github.com/hc-ui/cross-ai-memory)** | 一本笔记给所有 AI 看。模型只能提案，你点头才写入 | [说明书](https://hc-ui.github.io/cross-ai-memory/) |
 | **[gbt7714-lint](https://github.com/hc-ui/gbt7714-lint)** | Word 里抄出来的参考文献，对照 GB/T 7714—2025 检查并自动修 | [浏览器打开](https://hc-ui.github.io/gbt7714-lint/) |
 | **[whichproxy](https://github.com/hc-ui/whichproxy)** | 浏览器走了 Clash，CLI 却 403？看 curl / Python / Go 有没有被 `NO_PROXY` 放行 | 终端 20 秒 |
 | **[shotbible](https://github.com/hc-ui/shotbible)** | AI 视频连续性：锁角色和场景，编译不会跑偏的提示词。本地、不上云 | 克隆即用 |
