@@ -13,6 +13,7 @@
 
 ## 同一条线
 
+- [cross-ai-memory](https://github.com/hc-ui/cross-ai-memory) — 一本笔记给所有 AI 看：模型只能提案，你点头才写入
 - [zh-cite-check](https://github.com/hc-ui/zh-cite-check) — 正文 `[1][2]` 和参考文献表是否对得上
 - [zotlocal](https://github.com/hc-ui/zotlocal) — 读本机 Zotero，不用 Web API key
 - [docx-reply](https://github.com/hc-ui/docx-reply) — Word 批注 / 修订导出成修改对照表
